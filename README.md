@@ -1,6 +1,6 @@
 # Five Track Lofi Radio
 
-Build an aesthetic music player using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
+Built an aesthetic music player using ONLY plain HTML, CSS, and vanilla JavaScript (no React, no frameworks, no Tailwind). Three files: index.html, style.css, script.js.
 
 Aesthetic: "Lo-fi late night". A warm dusk gradient background (peach, mauve, deep indigo) with a subtle grain overlay. The player is a centered card with a vinyl record that spins while playing (CSS animation, pauses when paused), rounded corners, soft glow, and retro typography (Space Grotesk plus a pixel or monospace accent font for the time).
 
